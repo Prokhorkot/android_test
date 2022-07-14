@@ -13,4 +13,11 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Install_button" parent="ThemeOverlay.AppCompat">
+        <item name="colorPrimary">#F4D144</item>
+    </style>
+    <style name="Top_button" parent="ThemeOverlay.AppCompat">
+        <item name="colorPrimary">#47FFFFFF</item>
+    </style>
 </resources>
